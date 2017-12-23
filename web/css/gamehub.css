@@ -1,0 +1,658 @@
+a,a:hover {
+	text-decoration: none
+}
+
+#friends p a:hover,#showmore:hover,.nav_wrap a.cur,.nav_wrap a:hover,.sitemap a:hover,.tmybtns .next:hover,.tmybtns .prev:hover,.tmycon a:hover,.tmymore:hover,a:hover {
+	color: #0cacff
+}
+
+.clearfix,.gamehub-box,.gamehub-item,.sitemap {
+	*zoom: 1
+}
+
+html {
+	-webkit-font-smoothing: antialiased
+}
+
+body,button,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,input,li,ol,p,td,textarea,th,ul {
+	margin: 0;
+	padding: 0
+}
+
+body,button,input,select,textarea {
+	font: 12px \5FAE\8F6F\96C5\9ED1,arial,\5b8b\4f53
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%
+}
+
+address,cite,dfn,em,i,var {
+	font-style: normal
+}
+
+code,kbd,pre,samp {
+	font-family: courier new,courier,monospace,arial,\5b8b\4f53
+}
+
+code {
+	font-family: \5FAE\8F6F\96C5\9ED1
+}
+
+form {
+	display: inline
+}
+
+small {
+	font-size: 12px
+}
+
+ol,ul {
+	list-style: none
+}
+
+a {
+	color: #333
+}
+
+sup {
+	vertical-align: text-top
+}
+
+sub {
+	vertical-align: text-bottom
+}
+
+img {
+	vertical-align: top;
+	border: 0;
+	-ms-interpolation-mode: bicubic
+}
+
+button,input,select,textarea {
+	font-size: 100%;
+	outline: 0
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+
+textarea {
+	resize: none
+}
+
+.clearfix:after {
+	content: '\20';
+	display: block;
+	height: 0;
+	clear: both
+}
+
+.hidden {
+	display: none
+}
+
+input:-webkit-autofill {
+	-webkit-box-shadow: 0 0 0 1000px #fff inset
+}
+
+input:-webkit-autofill,select:-webkit-autofill,textarea:-webkit-autofill {
+	-webkit-box-shadow: 0 0 0 1000px #fff inset
+}
+
+body {
+	background-color: #F5F5F5
+}
+.tmylog {
+	width: 260px;
+	height: 43px;
+	padding-top: 22px;
+	line-height: 24px;
+	border-bottom: 1px dashed #ccc
+}
+
+.btn_tmylogin {
+	width: 50px;
+	height: 24px;
+	margin-right: 10px;
+	background-color: #0cacff;
+	border-radius: 3px
+}
+
+.btn_tmylogin:hover {
+	background-color: #3dbdff
+}
+
+.tmycon {
+	height: 240px
+}
+
+.tmycon ul {
+	width: 300px;
+	padding-top: 12px;
+	padding-left: 15px
+}
+
+.tmycon li {
+	width: 90px;
+	height: 98px;
+	line-height: 22px;
+	margin-top: 8px
+}
+
+.tmycon img {
+	width: 72px;
+	height: 72px
+}
+
+.tmytab {
+	height: 32px;
+	background-color: #f5f5f5
+}
+
+.tmymore {
+	width: 75px;
+	line-height: 32px
+}
+
+.tmybtns {
+	padding: 10px 0 0 10px
+}
+
+.tmybtns i {
+	width: 10px;
+	height: 10px;
+	margin: 0 5px;
+	border-radius: 50%;
+	background-color: #ccc
+}
+
+.tmybtns i.cur,.tmybtns i:hover {
+	background-color: #0cacff
+}
+
+.tmybtns .next,.tmybtns .prev {
+	padding: 0 5px;
+	font-family: \5B8B\4F53
+}
+
+.gamehub-box,.subfoot .inner,.topbar .inner {
+	width: 1200px;
+	margin: 0 auto
+}
+
+.mt30 {
+	margin-top: 30px
+}
+
+.subfoot {
+	padding: 20px 0;
+	background-color: #eee
+}
+
+.sitemap dt {
+	padding-left: 24px;
+	line-height: 38px
+}
+
+.sitemap dd {
+	text-indent: 24px;
+	line-height: 32px
+}
+
+.sitemap1 dt,.sitemap2 dt,.sitemap3 dt {
+	background: url(../images/footer.png) no-repeat
+}
+
+.sitemap1 {
+	width: 26.8%
+}
+
+.sitemap1 dt {
+	background-position: 0 12px
+}
+
+.sitemap1 dd {
+	width: 49.9%
+}
+
+.sitemap2 {
+	width: 40%;
+	padding-left: 30px
+}
+
+.sitemap2 dt {
+	background-position: 0 -100px
+}
+
+.sitemap2 dd {
+	width: 33%
+}
+
+.sitemap3 {
+	width: 26.8%;
+	padding-left: 30px
+}
+
+.sitemap3 dt {
+	background-position: 0 -210px
+}
+
+.sitemap3 dd {
+	width: 49.9%
+}
+
+#friends {
+	margin-top: 25px;
+	padding-top: 8px;
+	line-height: 2;
+	border-top: 1px solid #ddd
+}
+
+#friends p {
+	padding: 0 10px
+}
+
+#friends p a {
+	margin-right: 20px;
+	color: #888;
+	white-space: nowrap;
+	display: inline-block
+}
+
+.hmin p {
+	height: 24px;
+	margin-right: 96px
+}
+
+#showmore {
+	padding-right: 12px;
+	background: url(../images/down.png) right 0 no-repeat;
+	color: #888
+}
+
+#sj-ft2017 {
+	margin-top: 40px
+}
+
+.banner-box,.game-img,.gamehub-item h4,.gamehub-item li,.gamehub-left,.hmin p,.item-btn,.logo a,.nav_wrap,.pa-info,.rank-item,.rank-item li,.rank-tit h3,.recentbox,.tmycon,.tmycon li {
+	overflow: hidden
+}
+
+#showmore,.item-img,.recent,.recentbox {
+	display: none
+}
+
+.btn_recent,.hmin #showmore,.logo a,.pa-img img,.rank-item li.cur .item-img,.tmycon img {
+	display: block
+}
+
+.btn_tmylogin,.item-btn,.pagenav a,.pagenav span,.star-grade span,.stor-item a,.tmybtns .next,.tmybtns .prev,.tmybtns i {
+	display: inline-block
+}
+
+.game-img,.gamehub-item li,.logo,.nav_wrap,.nav_wrap a,.nav_wrap li,.nav_wrap ul,.rank-tit h3,.sb_input,.sitemap dd,.sitemap1,.sitemap2,.sitemap3,.star-grade i,.tmybtns,.tmycon li,.tmycon ul {
+	float: left
+}
+
+#showmore,.aside-right,.gamehub-left,.rank-item span,.recent,.sb_submit,.searchbox,.tmymore {
+	float: right
+}
+
+.aside-fixed.cur .aside-rank {
+	position: fixed
+}
+
+.banner-box,.btn_recent,.game-img,.rank-item,.rank-item li,.recent,.searchbox,.tmycon li {
+	position: relative
+}
+
+.banner-box img,.btn_recent:after,.item-img,.pa-img,.rank-item i,.rank-item li.cur h4,.rank-item li.cur p,.rank-item li.cur span,.recentbox {
+	position: absolute
+}
+
+.tmycon img,.tmylog {
+	margin: 0 auto
+}
+
+.gamehub-box:after,.gamehub-item:after,.sitemap:after {
+	content: '\200B';
+	display: block;
+	height: 0;
+	clear: both
+}
+
+#showmore,.btn_recent,.btn_tmylogin,.sb_submit,.tmybtns .next,.tmybtns .prev,.tmybtns i {
+	cursor: pointer
+}
+
+.tmybtns {
+	font-size: 0;
+	line-height: 0
+}
+
+.sb_input,.sitemap dd,.tmycon li,.tmylog,.tmymore {
+	font-size: 12px
+}
+
+.pagenav,.rank-item h4,.stor-item a,.tmybtns .next,.tmybtns .prev {
+	font-size: 14px
+}
+
+.nav_wrap li,.rank-tit h3,.sitemap dt {
+	font-size: 16px
+}
+
+.gamehub-item h4 {
+	font-size: 18px
+}
+
+.pagenav a.prev {
+	font-size: 20px;
+	font-family: \5B8B\4F53
+}
+
+.logo a {
+	line-height: 9999px
+}
+
+.gamehub-item h4,.rank-item h4,.rank-tit h3 {
+	font-weight: 400
+}
+
+.pagenav a.prev,.tmybtns .next,.tmybtns .prev {
+	font-weight: 700
+}
+
+.item-btn,.pa-img,.pagenav,.rank-item i,.tmycon li,.tmylog,.tmymore {
+	text-align: center
+}
+
+.item-btn,.pagenav a,.pagenav span,.star-grade {
+	vertical-align: middle
+}
+
+#friends strong,.gamehub-item h4,.nav_wrap a,.rank-item li.cur a,.stor-item a,.tmycon a {
+	color: #333
+}
+
+.btn_recent,.item-btn,.pagenav,.pagenav a,.rank-item a,.sb_input,.sitemap,.sitemap a,.tmylog,.tmymore {
+	color: #666
+}
+
+.gamehub-item li,.rank-item p,.rank-item span {
+	color: #999
+}
+
+.tmybtns .next,.tmybtns .prev {
+	color: #ccc
+}
+
+.btn_tmylogin,.btn_tmylogin:hover,.item-btn:hover,.pa-img,.pagenav a.cur,.pagenav a:hover,.rank-item i,.stor-item a.cur,.stor-item a:hover {
+	color: #fff
+}
+
+.aside-rank,.game-stor,.gamehub-left,.pagenav a,.recentbox,.topbar {
+	background-color: #fff
+}
+
+.aside-right {
+	width: 280px;
+	float: left
+}
+
+.aside-ad {
+	margin-top: 30px
+}
+
+.aside-ad img {
+	width: 280px;
+	height: 250px
+}
+
+.aside-fixed {
+	margin-top: 20px
+}
+
+.aside-fixed.cur .aside-rank {
+	top: 0;
+	width: 242px;
+	z-index: 2
+}
+
+.aside-rank {
+	padding: 0 19px 10px
+}
+
+.rank-tit {
+	height: 50px;
+	border-bottom: 1px solid #e5e5e5
+}
+
+.rank-tit h3 {
+	height: 49px;
+	line-height: 49px;
+	margin-bottom: -1px;
+	border-bottom: 2px solid #0cacff
+}
+
+.rank-item {
+	margin-top: 6px
+}
+
+.rank-item ol {
+	margin-top: -1px
+}
+
+.rank-item li {
+	height: 43px;
+	line-height: 43px;
+	padding-left: 25px;
+	border-top: 1px dashed #e5e5e5
+}
+
+.rank-item li.cur {
+	height: 88px;
+	line-height: 1.6
+}
+
+.rank-item li.cur h4,.rank-item li.cur p,.rank-item li.cur span {
+	left: 94px
+}
+
+.rank-item li.cur h4 {
+	top: 12px
+}
+
+.rank-item li.cur span {
+	top: 34px;
+	margin-left: 0
+}
+
+.rank-item li.cur p {
+	top: 55px
+}
+
+.rank-item i {
+	width: 16px;
+	height: 16px;
+	line-height: 16px;
+	background-color: #ccc;
+	top: 50%;
+	left: 1px;
+	margin-top: -8px;
+	border-radius: 4px
+}
+
+.rank-item i.cur {
+	background-color: #0cacff
+}
+
+.rank-item span {
+	margin-left: 10px
+}
+
+.item-img {
+	left: 25px;
+	top: 15px
+}
+
+.item-img img {
+	width: 58px;
+	height: 58px
+}
+
+.banner-box {
+	height: 300px;
+	min-width: 1200px
+}
+
+.banner-box img {
+	width: 1906px;
+	height: 300px;
+	left: 50%;
+	margin-left: -953px
+}
+
+.game-stor {
+	margin-top: 30px;
+	padding: 0 20px 10px
+}
+
+.stor-item {
+	padding: 10px 0;
+	font-size: 0;
+	line-height: 0
+}
+
+.stor-item a {
+	padding: 0 10px;
+	height: 32px;
+	margin: 10px 10px 0 0;
+	line-height: 32px;
+	white-space: nowrap
+}
+
+.stor-item a.cur,.stor-item a:hover {
+	background-color: #0cacff;
+	border-radius: 4px
+}
+
+.gamehub-left {
+	width: 890px;
+	margin-top: 30px;
+	min-height: 736px
+}
+
+.gamehub-item {
+	margin-top: -10px
+}
+
+.gamehub-item li {
+	height: 196px;
+	width: 395px;
+	margin: 40px 0 0 30px
+}
+
+.gamehub-item h4 {
+	height: 37px;
+	line-height: 37px
+}
+
+.pa-info {
+	height: 63px;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	line-height: 1.8
+}
+
+.game-img {
+	margin-right: 20px
+}
+
+.game-img,.game-img img {
+	width: 155px;
+	height: 196px
+}
+
+.game-img:hover .pa-img {
+	bottom: 0
+}
+
+.pa-img {
+	left: 0;
+	right: 0;
+	height: 196px;
+	bottom: -196px;
+	background-color: rgba(12,172,255,.9);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#e50cacff', EndColorStr='#e50cacff');
+	border-radius: 4px;
+	transition: bottom .3s
+}
+
+.pa-img img {
+	width: 120px;
+	height: 120px;
+	margin: 28px auto 8px
+}
+
+:root .pa-img {
+	filter: ''
+}
+
+.star-grade {
+	color: #ffcb2b;
+	padding: 10px 0;
+	height: 13px
+}
+
+.star-grade i,.star-grade span {
+	height: 13px;
+	background: url(../images/star.png) no-repeat
+}
+
+.star-grade span {
+	width: 72px;
+	vertical-align: -1px;
+	margin-right: 9px;
+	background-position: 0 -17px
+}
+
+.item-btn {
+	width: 48px;
+	height: 22px;
+	line-height: 22px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin: 8px 10px 0 0
+}
+
+.item-btn:hover {
+	background-color: #0cacff;
+	border-color: #0cacff
+}
+
+.pagenav {
+	padding: 30px 0
+}
+
+.pagenav a,.pagenav span {
+	margin: 0 4px
+}
+
+.pagenav a {
+	padding: 0 14px;
+	height: 33px;
+	line-height: 33px;
+	border-radius: 5px;
+	border: 1px solid #e1e1e1
+}
+
+.pagenav a.cur,.pagenav a:hover {
+	background-color: #0cacff;
+	border-color: #0cacff
+}

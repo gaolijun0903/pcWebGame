@@ -1,0 +1,380 @@
+.hidden {
+	display: none
+}
+
+.js_wrap {
+	position: relative
+}
+
+#colsebtn_js,.js_testimg,.js_wrap i {
+	position: absolute
+}
+
+.js_logwrap {
+	position: fixed;
+	background: #fff
+}
+
+.js_qqbtn,.js_wenxinbtn {
+	display: inline-block;
+	line-height: 800px
+}
+
+.js_hidden {
+	display: none
+}
+
+.js_txt {
+	border: 0
+}
+
+.js_owrap:after {
+	content: '\20';
+	display: block;
+	height: 0;
+	clear: both
+}
+
+.js_nav i,.js_owrap a {
+	float: right
+}
+
+.js_nav,.js_othertit,.js_owrap,.js_subbtn,.js_tips {
+	margin: 0 auto;
+	width: 285px
+}
+
+#graybg_js,.js_hidden,.js_logwrap,.js_nav,.js_othertit,.js_qqbtn,.js_subbtn,.js_wenxinbtn,.js_wrap {
+	overflow: hidden
+}
+
+.js_othertit,.js_qqWenxin,.js_subbtn {
+	text-align: center
+}
+
+#colsebtn_js,.js_nav i,.js_subbtn {
+	cursor: pointer
+}
+
+.js_othertit,.js_txt {
+	font-size: 14px
+}
+
+.js_subbtn {
+	font-weight: 700;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 8px
+}
+
+.js_nav b {
+	font-weight: 400;
+	font-size: 18px
+}
+
+.js_nav b,.js_owrap {
+	color: #666
+}
+
+.js_othertit {
+	color: #999
+}
+
+.js_nav i {
+	color: #0cacff
+}
+
+#colsebtn_js,.js_nav i,.js_othertit,.js_qqbtn,.js_wenxinbtn,.js_wrap i {
+	background-image: url(../images/ico.png);
+	background-repeat: no-repeat
+}
+
+.js_loginShow #graybg_js {
+	height: 100%
+}
+
+.js_loginShow .js_logwrap {
+	top: 50%!important;
+	transform: translateY(0)
+}
+
+.js_loginShow #cproIframe2001holder,.js_loginShow #cproIframe2002holder {
+	display: none!important
+}
+
+.js_loginShow #pusher {
+	height: 2000px
+}
+
+#graybg_js {
+	background: #000;
+	filter: alpha(opacity=50);
+	opacity: .5;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 998;
+	position: fixed;
+	height: 0
+}
+
+.js_logwrap {
+	z-index: 999;
+	font: 12px \5FAE\8F6F\96C5\9ED1,arial,\5b8b\4f53;
+	width: 490px;
+	_position: absolute;
+	left: 50%;
+	top: -500px;
+	transform: translateY(-500px);
+	margin: -220px 0 0 -245px;
+	padding-bottom: 40px;
+	-webkit-box-shadow: 0 0 10px #000;
+	-moz-box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 10px #000;
+	-webkit-transition: transform .4s ease-out;
+	-moz-transition: transform .4s ease-out;
+	-ms-transition: transform .4s ease-out;
+	-o-transition: transform .4s ease-out;
+	transition: transform .4s ease-out
+}
+
+#colsebtn_js {
+	right: 15px;
+	top: 15px;
+	width: 16px;
+	height: 16px;
+	background-position: -15px -15px
+}
+
+#colsebtn_js:hover {
+	background-position: -47px -15px
+}
+
+.js_nav {
+	padding-top: 27px;
+	height: 33px;
+	line-height: 33px
+}
+
+.js_nav i {
+	background-position: 100% 0;
+	padding-right: 20px
+}
+
+.js_nav i:hover {
+	color: #ff5757;
+	background-position: 100% -31px
+}
+
+.js_wrap {
+	width: 252px;
+	margin: 10px auto 0;
+	height: 36px;
+	border: 1px solid #ccc;
+	padding-left: 30px
+}
+
+.js_wrap.js_focus {
+	border-color: #0CACFF
+}
+
+.js_wrap.js_blur {
+	border-color: #FF5757
+}
+
+.js_wrap i {
+	width: 30px;
+	height: 36px;
+	left: 0;
+	top: 0
+}
+
+.js_txt {
+	height: 36px;
+	width: 100%;
+	-webkit-box-shadow: 0 0 0 30px #fff inset;
+	line-height: 36px\9
+}
+
+.js_userName i {
+	background-position: 0 -60px
+}
+
+.js_userPs i {
+	background-position: -37px -60px
+}
+
+.js_realName i {
+	background-position: 0 -164px
+}
+
+.js_idCard i {
+	background-position: -41px -164px
+}
+
+.js_captcha i {
+	background-position: -75px -60px
+}
+
+.js_owrap {
+	zoom: 1;
+	padding-top: 8px
+}
+
+.js_owrap input {
+	vertical-align: -2px;
+	margin-right: 3px
+}
+
+.js_subbtn {
+	height: 40px;
+	line-height: 40px;
+	background: #FF5757;
+	border-radius: 3px
+}
+
+.js_subbtn:hover {
+	background: #FF4141
+}
+
+.js_loading,.js_loading:hover {
+	background: #FFABAB
+}
+
+.js_othertit {
+	background-position: 0 -109px;
+	line-height: 21px;
+	height: 21px;
+	margin-top: 26px
+}
+
+.js_qqWenxin {
+	font-size: 0;
+	line-height: 0;
+	padding-top: 15px
+}
+
+.js_qqbtn,.js_wenxinbtn {
+	width: 32px;
+	height: 32px;
+	margin: 0 10px
+}
+
+.js_qqbtn {
+	background-position: -150px -66px
+}
+
+.js_qqbtn:hover {
+	background-position: -150px -145px
+}
+
+.js_wenxinbtn {
+	background-position: -202px -66px
+}
+
+.js_wenxinbtn:hover {
+	background-position: -202px -145px
+}
+
+.js_tips {
+	padding-top: 8px;
+	color: #ff5757
+}
+
+.js_testimg {
+	right: 4px;
+	top: 4px
+}
+
+.js_testimg,.js_testimg img {
+	width: 70px;
+	height: 28px
+}
+
+@-webkit-keyframes flipInY {
+	0% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,90deg);
+		transform: perspective(400px)rotate3d(0,1,0,90deg);
+		-webkit-transition-timing-function: ease-in;
+		transition-timing-function: ease-in;
+		opacity: 0
+	}
+
+	40% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,-20deg);
+		transform: perspective(400px)rotate3d(0,1,0,-20deg);
+		-webkit-transition-timing-function: ease-in;
+		transition-timing-function: ease-in
+	}
+
+	60% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,10deg);
+		transform: perspective(400px)rotate3d(0,1,0,10deg);
+		opacity: 1
+	}
+
+	80% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,-5deg);
+		transform: perspective(400px)rotate3d(0,1,0,-5deg)
+	}
+
+	100% {
+		-webkit-transform: perspective(400px);
+		transform: perspective(400px)
+	}
+}
+
+@keyframes flipInY {
+	0% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,90deg);
+		-ms-transform: perspective(400px)rotate3d(0,1,0,90deg);
+		transform: perspective(400px)rotate3d(0,1,0,90deg);
+		-webkit-transition-timing-function: ease-in;
+		transition-timing-function: ease-in;
+		opacity: 0
+	}
+
+	40% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,-20deg);
+		-ms-transform: perspective(400px)rotate3d(0,1,0,-20deg);
+		transform: perspective(400px)rotate3d(0,1,0,-20deg);
+		-webkit-transition-timing-function: ease-in;
+		transition-timing-function: ease-in
+	}
+
+	60% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,10deg);
+		-ms-transform: perspective(400px)rotate3d(0,1,0,10deg);
+		transform: perspective(400px)rotate3d(0,1,0,10deg);
+		opacity: 1
+	}
+
+	80% {
+		-webkit-transform: perspective(400px)rotate3d(0,1,0,-5deg);
+		-ms-transform: perspective(400px)rotate3d(0,1,0,-5deg);
+		transform: perspective(400px)rotate3d(0,1,0,-5deg)
+	}
+
+	100% {
+		-webkit-transform: perspective(400px);
+		-ms-transform: perspective(400px);
+		transform: perspective(400px)
+	}
+}
+
+.js_flipInY {
+	-webkit-animation-name: flipInY;
+	animation-name: flipInY
+}
+
+.js_animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both
+}
+
+.js_hidden {
+	height: 0;
+	width: 0
+}
