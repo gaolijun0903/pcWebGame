@@ -1,0 +1,553 @@
+a,a:hover {
+	text-decoration: none
+}
+
+.clearfix,.page-content,.petPartner-item,.picter-item {
+	*zoom: 1
+}
+
+.nav-bar,.nav-inner {
+	transition: all .5s ease
+}
+
+.download-Android,.download-ios,.nav-bar i,.page-left i,body {
+	background-repeat: no-repeat
+}
+
+.article-text,.article-title,.nav-info,.nav-inner,.news-item a,.page-left,.page-subtit,.petPartner-item a,.petPartner-item span,.picter-item a {
+	overflow: hidden
+}
+
+.fixed-nav .logo-wrap,.nav-info {
+	display: none
+}
+
+.download-Android,.download-ios,.download-window,.fixed-nav .nav-info,.news-item a,.page-left img,.page-navigation span,.petPartner-item span {
+	display: block
+}
+
+.nav-bar i,.page-left i,.page-navigation a,.page-page_nav a,.picter-item a {
+	display: inline-block
+}
+
+.game-info,.game-info img,.game-title,.nav-info,.nav-info img,.nav-info span,.page-crumbs,.page-left,.petPartner-item a {
+	float: left
+}
+
+.nav-bar,.news-item span,.page-navigation,.page-right {
+	float: right
+}
+
+.fixed-nav .nav-inner {
+	position: fixed
+}
+
+.nav-wrap {
+	position: relative
+}
+
+.logo-wrap {
+	position: absolute;
+	left: 10px;
+	top: 10px
+}
+
+.download-Android,.download-ios,.download-window,.inner,.page-content,.page-left img {
+	margin: 0 auto
+}
+
+.page-content:after,.petPartner-item:after,.picter-item:after {
+	content: '\200B';
+	display: block;
+	height: 0;
+	clear: both
+}
+
+.download-Android,.download-ios,.download-window {
+	font-size: 0;
+	line-height: 0
+}
+
+.article-text,.page-page_nav a,.petPartner-item,.release-page,.release-time {
+	font-size: 14px
+}
+
+.game-title,.nav-bar,.nav-info span,.news-item a {
+	font-size: 16px
+}
+
+.page-left h2,.page-navigation a {
+	font-size: 18px
+}
+
+.page-crumbs h2 {
+	font-size: 22px
+}
+
+.article-title {
+	font-size: 24px
+}
+
+.game-title h1 {
+	font-size: 26px
+}
+
+.page-subtit {
+	line-height: 9999px
+}
+
+.article-title,.page-left h2 {
+	font-weight: 400
+}
+
+.article-title,.page-left h2,.page-navigation a,.page-page_nav,.petPartner-item span,.release-time {
+	text-align: center
+}
+
+.nav-bar i,.page-left i {
+	vertical-align: middle
+}
+
+.article-title,.fixed-nav .nav-bar a,.game-title h1,.nav-info span {
+	color: #333
+}
+
+.article-text,.game-title {
+	color: #666
+}
+
+.news-item span,.page-crumbs a,.page-page_nav a,.release-time {
+	color: #999
+}
+
+.nav-bar a,.page-page_nav a.cur,.page-page_nav a:hover,.petPartner-item span {
+	color: #fff
+}
+
+.page-left,.page-right {
+	background-color: #fff
+}
+
+html {
+	-webkit-font-smoothing: antialiased
+}
+
+body,button,dd,dl,dt,form,h1,h2,h3,h4,h5,h6,input,li,ol,p,td,textarea,th,ul {
+	margin: 0;
+	padding: 0
+}
+
+body,button,input,select,textarea {
+	font: 12px \5FAE\8F6F\96C5\9ED1,arial,\5b8b\4f53
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%
+}
+
+address,cite,dfn,em,i,var {
+	font-style: normal
+}
+
+code,kbd,pre,samp {
+	font-family: courier new,courier,monospace,arial,\5b8b\4f53
+}
+
+form {
+	display: inline
+}
+
+small {
+	font-size: 12px
+}
+
+ol,ul {
+	list-style: none
+}
+
+a {
+	color: #bebebe
+}
+
+a:hover {
+	color: #0cacff
+}
+
+sup {
+	vertical-align: text-top
+}
+
+sub {
+	vertical-align: text-bottom
+}
+
+img {
+	vertical-align: top;
+	border: 0;
+	-ms-interpolation-mode: bicubic
+}
+
+button,input,select,textarea {
+	font-size: 100%;
+	outline: 0
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+
+textarea {
+	resize: none
+}
+
+.clearfix:after {
+	content: '\20';
+	display: block;
+	height: 0;
+	clear: both
+}
+
+.hidden {
+	display: none
+}
+
+.inner,.page-content {
+	width: 1200px
+}
+
+.nav-inner {
+	height: 100px
+}
+
+.nav-wrap {
+	z-index: 2;
+	height: 100px
+}
+
+.nav-info {
+	margin: 10px 0 0 25px;
+	color: #333;
+	height: 74px
+}
+
+.nav-info span {
+	width: 25px;
+	line-height: 1.1
+}
+
+.nav-info img {
+	width: 74px;
+	height: 74px
+}
+
+.game-info {
+	margin-left: 15px;
+	padding-left: 15px;
+	border-left: 1px solid #ccc
+}
+
+.game-info img {
+	margin-right: 10px
+}
+
+.game-title h1 {
+	margin: 5px 0
+}
+
+.nav-bar {
+	margin: 30px 40px 0 0
+}
+
+.nav-bar a {
+	text-shadow: 1px 1px 1px #333
+}
+
+.nav-bar i {
+	width: 15px;
+	height: 25px;
+	background-position: 0 -572px;
+	margin: 0 20px
+}
+
+.fixed-nav .nav-inner {
+	top: 0;
+	right: 0;
+	left: 0;
+	background-color: rgba(255,255,255,.9);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#e5ffffff', EndColorStr='#e5ffffff')
+}
+
+.fixed-nav .nav-bar {
+	margin-top: 40px
+}
+
+.fixed-nav .nav-bar a {
+	text-shadow: none
+}
+
+.fixed-nav .nav-bar a:hover {
+	color: #ffae17
+}
+
+.fixed-nav .nav-bar i {
+	background-position: 0 -621px
+}
+
+:root .fixed-nav .nav-inner {
+	-webkit-filter: "";
+	filter: ""
+}
+
+body {
+	min-width: 1200px;
+	background-position: center 55px;
+	background-color: #f5f5f5
+}
+
+.page-subtit {
+	height: 280px
+}
+
+.page-left {
+	width: 280px;
+	padding-bottom: 40px
+}
+
+.page-left h2 {
+	height: 70px;
+	line-height: 73px;
+	color: #333
+}
+
+.page-left img {
+	width: 172px;
+	height: 172px;
+	margin-bottom: 22px
+}
+
+.page-left i {
+	width: 20px;
+	height: 20px;
+	background-image: url(../images/ico.png);
+	margin: -2px 4px 0 0;
+	background-position: -431px -360px
+}
+
+.download-Android,.download-ios,.download-window {
+	margin-bottom: 6px;
+	width: 180px;
+	height: 55px
+}
+
+.download-ios {
+	background-position: 0 -332px
+}
+
+.download-ios:hover {
+	background-position: -200px -332px
+}
+
+.download-Android {
+	background-position: 0 -265px;
+	margin-top: 10px
+}
+
+.download-Android:hover {
+	background-position: -200px -265px
+}
+
+.download-window {
+	background-position: -204px -174px
+}
+
+.download-window:hover {
+	background-position: -204px -238px
+}
+
+.page-right {
+	width: 900px;
+	min-height: 1000px
+}
+
+.page-crumbs {
+	color: #999;
+	margin: 30px 0 20px 30px
+}
+
+.page-crumbs h2 {
+	color: #333
+}
+
+.page-crumbs p {
+	margin-top: 10px
+}
+
+.page-crumbs a,.page-crumbs i {
+	margin: 0 5px
+}
+
+.page-crumbs a:hover {
+	color: #ffae17
+}
+
+.page-navigation span {
+	margin: 30px 30px 0 0
+}
+
+.page-navigation a {
+	color: #666;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+	border: 2px solid #fff
+}
+
+.page-navigation a.cur,.page-navigation a:hover {
+	border: 2px solid #ffae17;
+	color: #ffae17
+}
+
+.news-item {
+	clear: both;
+	margin: 0 30px;
+	border-top: 1px solid #ccc
+}
+
+.news-item a {
+	height: 49px;
+	line-height: 49px;
+	border-bottom: 1px dotted #ccc;
+	color: #333;
+	transition: all .3s
+}
+
+.news-item a:hover,.news-item a:hover span {
+	color: #ffae17
+}
+
+.page-page_nav {
+	font-size: 0;
+	line-height: 0;
+	padding: 30px 0
+}
+
+.page-page_nav a {
+	height: 24px;
+	padding: 0 7px;
+	margin: 0 5px;
+	line-height: 24px;
+	background-color: #fff;
+	border: 1px solid #eee
+}
+
+.page-page_nav a.cur,.page-page_nav a:hover {
+	background-color: #ffae17
+}
+
+.picter-item {
+	margin: 10px 36px 0;
+	border-bottom: 1px solid #f2f2f2;
+	font-size: 0;
+	line-height: 0
+}
+
+.picter-item a,.picter-item img {
+	width: 242px;
+	height: 148px
+}
+
+.picter-item a {
+	margin: 0 16px 34px;
+	transition: all .3s
+}
+
+.picter-item a:hover {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+	box-shadow: 8px 8px 8px rgba(136,136,136,.5)
+}
+
+.article-title,.release-time {
+	margin: 0 30px
+}
+
+.article-title {
+	clear: both;
+	border-top: 2px solid #eee;
+	padding-top: 10px;
+	height: 80px;
+	line-height: 80px
+}
+
+.release-time {
+	padding-bottom: 35px;
+	border-bottom: 1px solid #ccc
+}
+
+.release-time i {
+	margin-left: 20px
+}
+
+.article-text {
+	line-height: 2.2;
+	text-indent: 2em;
+	padding: 30px 40px
+}
+
+.article-text img {
+	max-width: 100%;
+	margin: 10px 0
+}
+
+.release-page {
+	border-top: 1px solid #f2f2f2;
+	padding: 20px;
+	margin: 0 20px;
+	color: #999;
+	line-height: 2.2;
+	transition: all .3s
+}
+
+.release-page a {
+	color: #686868
+}
+
+.release-page a:hover {
+	color: #ffae17
+}
+
+.petPartner-item a {
+	width: 107px;
+	height: 138px;
+	margin: 0 0 20px 37px
+}
+
+.petPartner-item img {
+	width: 107px;
+	height: 107px
+}
+
+.petPartner-item span {
+	margin-top: 10px;
+	height: 20px;
+	line-height: 20px;
+	background-color: #084ebf;
+	border-radius: 20px;
+	padding: 0 10px
+}
+
+
+
+
+.logo-ryw {
+    line-height: 9999px;
+    width: 140px;
+    height: 28px;
+    background: url(../images/logotop.png) no-repeat;
+    margin: 14px 20px 0 0;
+}
+
+
+.download-Android,.download-ios,.gift-btn,.mores,.nav-bar i,.pop-colse,.top-download{background-image:url(../images/ico.png)}
+    

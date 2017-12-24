@@ -1,0 +1,210 @@
+.close-ryw,.hot-mgame-ryw,.logo-ryw,.mgamelist-ryw {
+	overflow: hidden
+}
+
+.pagame-ryw {
+	display: none
+}
+
+.hot-mgame-ryw a,.hot-mgame-ryw img,.mgame-ryw:hover .pagame-ryw {
+	display: block
+}
+
+.btn-ryw,.mgamelist-ryw i {
+	display: inline-block
+}
+
+.command-ryw,.hot-mgame-ryw,.logo-ryw,.mgamelist-ryw a {
+	float: left
+}
+
+.mgame-ryw,.signreg-ryw,.tag-ryw {
+	float: right
+}
+
+.command-ryw,.header-ryw,.mgame-ryw {
+	position: relative
+}
+
+.close-ryw,.closebtn-ryw,.pagame-ryw {
+	position: absolute
+}
+
+.hot-mgame-ryw img,.inner-ryw {
+	margin: 0 auto
+}
+
+.btn-ryw,.checkout-ryw,.signreg-ryw i {
+	cursor: pointer
+}
+
+.hot-mgame-ryw a,.mgamelist-ryw a {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden
+}
+
+.signreg-ryw a {
+	color: #333
+}
+
+.checkout-ryw,.header-ryw,.pagame-ryw a,.signreg-ryw,.tag-ryw {
+	color: #666
+}
+
+.checkout-ryw:hover,.pagame-ryw a:hover,.signreg-ryw a:hover {
+	color: #0cacff
+}
+
+.header-ryw,.pagame-ryw {
+	background-color: #fff
+}
+
+.btn-ryw,.closebtn-ryw,.mgamelist-ryw i,.signreg-ryw,.tag-ryw {
+	background: url(../images/topico.png) no-repeat
+}
+
+.header-ryw {
+	height: 55px;
+	z-index: 3
+}
+
+.inner-ryw {
+	width: 1200px;
+	height: 100%
+}
+
+.logo-ryw {
+	line-height: 9999px;
+	width: 140px;
+	height: 28px;
+	background: url(../images/logotop.png) no-repeat;
+	margin: 14px 20px 0 0
+}
+
+.command-ryw.cur .close-ryw,.command-ryw.cur a {
+	height: 254px
+}
+
+.command-ryw.cur .ad-ryw {
+	visibility: hidden
+}
+
+.close-ryw {
+	width: 966px;
+	top: 54px;
+	left: -165px;
+	height: 0;
+	transition: height .2s
+}
+
+.close-ryw img {
+	width: 966px;
+	height: 254px
+}
+
+.close-ryw a {
+	width: 966px;
+	height: 0
+}
+
+.ad-ryw {
+	width: 420px;
+	height: 55px
+}
+
+.closebtn-ryw {
+	top: 10px;
+	right: 10px;
+	width: 30px;
+	height: 30px
+}
+
+.btn-ryw,.mgame-ryw {
+	height: 100%
+}
+
+.btn-ryw {
+	background-position: -54px 22px;
+	width: 100px;
+	text-indent: 35px;
+	line-height: 55px
+}
+
+.signreg-ryw,.tag-ryw {
+	line-height: 55px;
+	background-position: 100% -33px
+}
+
+.tag-ryw {
+	padding: 0 20px
+}
+
+.signreg-ryw {
+	padding: 0 15px
+}
+
+.signreg-ryw a,.signreg-ryw i {
+	margin: 0 5px
+}
+
+.pagame-ryw {
+	right: 0;
+	top: 55px;
+	width: 410px;
+	height: 252px;
+	padding-top: 20px;
+	border-radius: 4px;
+	box-shadow: 0 1px 3px 0 #999;
+	transition: all .3s
+}
+
+.pagame-ryw h3 {
+	font-size: 14px;
+	margin-top: -2px
+}
+
+.hot-mgame-ryw {
+	padding: 0 30px;
+	width: 92px;
+	margin-right: 30px;
+	height: 232px;
+	border-right: 1px solid #eee
+}
+
+.hot-mgame-ryw a {
+	text-align: center;
+	height: 94px;
+	margin-top: 12px;
+	line-height: 2
+}
+
+.hot-mgame-ryw img {
+	width: 74px;
+	height: 74px
+}
+
+.mgamelist-ryw {
+	*zoom: 1;
+	height: 200px;
+	margin-top: 10px
+}
+
+.mgamelist-ryw p {
+	width: 260px
+}
+
+.mgamelist-ryw a {
+	width: 106px;
+	height: 34px;
+	line-height: 34px;
+	margin-right: 10px
+}
+
+.mgamelist-ryw i {
+	vertical-align: middle;
+	width: 18px;
+	height: 34px;
+	background-position: -207px 10px;
+	margin-left: 4px
+}

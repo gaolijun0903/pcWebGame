@@ -1,5 +1,4 @@
-~
-function(e, t) {
+~function(e, t) {
     function n(e, t, n) {
         if (e) if (e.length && e.length === +e.length) {
             for (var o = 0; o < e.length; o++) if (t.call(n, e[o], o, e) === !0) return
